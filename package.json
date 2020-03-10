@@ -1,0 +1,11 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "this is my first app using nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "running"
+  },
+  "author": "kelvin,christopher\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D christopher",
+  "license": "ISC"
+}
