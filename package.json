@@ -1,11 +1,16 @@
 {
-  "name": "firstapp",
-  "version": "1.0.0",
-  "description": "this is my first app using nodejs",
-  "main": "server.js",
-  "scripts": {
-    "test": "running"
-  },
-  "author": "kelvin,christopher\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D christopher",
-  "license": "ISC"
+    "name": "firstapp",
+    "version": "1.0.0",
+    "description": "this is my first app using nodejs",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "kelvin,christopher\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D christopher",
+    "license": "ISC",
+    "dependencies": {
+        "connect": "^3.7.0",
+        "ejs": "^3.0.1",
+        "express": "^4.17.1"
+    }
 }
